@@ -14,7 +14,6 @@ In this project, we explore the following:
 - `LightweightFineTuningProject.ipynb`: Jupyter notebook containing the complete workflow, including loading the model, fine-tuning, and evaluation.
 - `README.md`: Overview of the project, setup instructions, and observations.
 - `.gitignore`: File specifying untracked files and directories.
-- `requirements.txt`: List of required packages for the project.
 
 ## Setup Instructions
 
